@@ -1,0 +1,15 @@
+﻿  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx9.cpp
+  imgui_impl_win32.cpp
+  imgui_widgets.cpp
+C:\Users\reddy\Desktop\GUI\red gui base\gui\imgui\imgui_widgets.cpp(2996,103): warning C4244: 'argument': conversion from 'ImGuiCol_' to 'float', possible loss of data
+  main.cpp
+C:\Users\reddy\Desktop\GUI\red gui base\gui\ui.hpp(138,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\reddy\Desktop\GUI\red gui base\gui\ui.hpp(139,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\reddy\Desktop\GUI\red gui base\gui\ui.hpp(141,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\reddy\Desktop\GUI\red gui base\gui\ui.hpp(238,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\reddy\Desktop\GUI\red gui base\gui\ui.hpp(354,1): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating Code...
+  red gui base.vcxproj -> C:\Users\reddy\Desktop\GUI\x64\Debug\ADVERSE FAN PROJECT.exe

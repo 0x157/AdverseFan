@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\reddy\Desktop\ImGui Menus\Script Menus\Project Adverse\red gui base\gui\ui.hpp(138,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\reddy\Desktop\ImGui Menus\Script Menus\Project Adverse\red gui base\gui\ui.hpp(139,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\reddy\Desktop\ImGui Menus\Script Menus\Project Adverse\red gui base\gui\ui.hpp(141,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\reddy\Desktop\ImGui Menus\Script Menus\Project Adverse\red gui base\gui\ui.hpp(238,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\reddy\Desktop\ImGui Menus\Script Menus\Project Adverse\red gui base\gui\ui.hpp(349,1): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating code
+  1 of 1735 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    26 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  red gui base.vcxproj -> C:\Users\reddy\Desktop\ImGui Menus\Script Menus\Project Adverse\Release\ADVERSE FAN PROJECT.exe
